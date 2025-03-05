@@ -119,9 +119,9 @@ ninja.data = [{
           description: "Sustainable service design to promote &quot;adoption instead of purchase&quot; for pet cats",
           section: "Projects",handler: () => {
               window.location.href = "/projects/uiux_project_4/";
-            },},{id: "projects-interactive-data-narrative-web-design",
-          title: 'Interactive Data Narrative Web Design',
-          description: "A website to raise awareness about health inequality and deprivation through data exploration",
+            },},{id: "projects-eurostay-web-design",
+          title: 'EuroStay Web Design',
+          description: "A website designed for a start-up company",
           section: "Projects",handler: () => {
               window.location.href = "/projects/uiux_project_5/";
             },},{
