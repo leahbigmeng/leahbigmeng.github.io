@@ -3,7 +3,7 @@ layout: page
 title: Interactive Data Narrative Web Design
 description: A website to raise awareness about health inequality and deprivation through data exploration
 img: assets/img/1-1-1.jpg
-importance: 1
+importance: 2
 category: UIUX Design
 related_publications: false
 ---

@@ -3,7 +3,7 @@ layout: page
 title: E-Piggy APP Design
 description: A banking APP to help parents teaching children about money and finance
 img: assets/img/3-3.jpg
-importance: 3
+importance: 4
 category: UIUX Design
 related_publications: false
 ---

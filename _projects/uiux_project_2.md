@@ -3,7 +3,7 @@ layout: page
 title: <a href="http://idesign.tju.edu.cn/exhibitions2021/index/index.html">Exhibition Web Design</a>
 description: The 7th Design Annual Exhibition of Tianjin University
 img: assets/img/2-.jpg
-importance: 2
+importance: 3
 category: UIUX Design
 ---
 

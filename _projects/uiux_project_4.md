@@ -3,7 +3,7 @@ layout: page
 title: HELLO! Kitty Service Design
 description: Sustainable service design to promote "adoption instead of purchase" for pet cats
 img: assets/img/4-4.jpg
-importance: 4
+importance: 5
 category: UIUX Design
 related_publications: false
 ---
